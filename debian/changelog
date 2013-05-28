@@ -1,8 +1,12 @@
-kde-base-artwork (4:4.10.2-2) UNRELEASED; urgency=low
+kde-base-artwork (4:4.10.3-1) UNRELEASED; urgency=low
 
+  [ Diane Trout ]
   * Add watch file.
 
- -- Diane Trout <diane@ghic.org>  Thu, 11 Apr 2013 18:15:32 -0700
+  [ Maximiliano Curia ]
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 28 May 2013 10:40:26 +0200
 
 kde-base-artwork (4:4.10.2-1) experimental; urgency=low
 
