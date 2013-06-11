@@ -7,6 +7,7 @@ kde-base-artwork (4:4.10.4-1) UNRELEASED; urgency=low
 
   [ Maximiliano Curia ]
   * Bump Standards-Version to 3.9.4.
+  * Bump debhelper build-dep and compat to 9.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 11 Jun 2013 23:03:12 +0200
 
