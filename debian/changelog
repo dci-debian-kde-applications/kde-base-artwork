@@ -1,9 +1,9 @@
-kde-base-artwork (4:4.11.3-1) UNRELEASED; urgency=low
+kde-base-artwork (4:4.11.3-1) unstable; urgency=low
 
   * New upstream release.
   * Update build dependencies.
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 08 Nov 2013 13:13:51 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 08 Nov 2013 13:19:02 +0100
 
 kde-base-artwork (4:4.11.2-1) experimental; urgency=low
 
