@@ -2,19 +2,21 @@ Source: kde-base-artwork
 Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Sune Vuorela <sune@debian.org>,
-           Maximiliano Curia <maxy@debian.org>
-Build-Depends:
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.11)
+Uploaders: Sune Vuorela <sune@debian.org>, Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kdelibs5-dev (>= 4:4.11),
+               pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
 
 Package: kde-base-artwork
 Architecture: all
 Depends: ${misc:Depends}
-Breaks: kde-workspace-data (<< 4:4.8.80), kde-workspace-data-extras (<< 4:4.8.80)
-Replaces: kde-workspace-data (<< 4:4.8.80), kde-workspace-data-extras (<< 4:4.8.80)
+Breaks: kde-workspace-data (<< 4:4.8.80),
+        kde-workspace-data-extras (<< 4:4.8.80)
+Replaces: kde-workspace-data (<< 4:4.8.80),
+          kde-workspace-data-extras (<< 4:4.8.80)
 Description: base artwork for the KDE Plasma Workspace
  This package contains artwork for a basic KDE Workspace installation.
  .
