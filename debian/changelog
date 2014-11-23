@@ -1,3 +1,12 @@
+kde-base-artwork (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream beta release.
+  * Fix watch urls for new release location.
+  * Update Vcs urls for the new repository location.
+  * Update the maintainer.
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Sun, 23 Nov 2014 14:19:24 +0100
+
 kde-base-artwork (4:4.11.5-1) unstable; urgency=low
 
   * New upstream release.
